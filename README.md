@@ -1,0 +1,2 @@
+# salary-predict
+mini project
